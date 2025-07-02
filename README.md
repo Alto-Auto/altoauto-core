@@ -38,7 +38,7 @@ This repository is the foundation for importing and processing geometry:
 - `pressure_mapper/` → Pressure logic via element or nodal targeting
 
 **Goal:**  
-Enable full-scale simulation from imported CAD files — no GUI, no hacks, no bullshit.
+Enable full-scale simulation from imported CAD files
 
 ---
 
