@@ -13,7 +13,7 @@
 ---
 
 ##  Pipeline Architecture
-| 🔧 Feature | 🚀 Description |
+| Feature | Description |
 |------------|----------------|
 | **Mesh Plan Panel** | Fully explicit global/local sizing, curvature growth, min elem size, optional optimization flags. |
 | **Loads & BCs Panel** | Interactive face selector to paint forces, fixed constraints, pressures. |
